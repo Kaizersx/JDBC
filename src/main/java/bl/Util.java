@@ -12,7 +12,7 @@ public class Util {
 
     private static final String DB_URL="jdbc:oracle:thin:@localhost:1521:XE";
     private static final String DB_USERNAME="KAIZERA";
-    private static final String DB_PASSWORD="munchen1987";
+    private static final String DB_PASSWORD="";
     private  static final String DB_DRIVER="oracle.jdbc.driver.OracleDriver";
 
 
